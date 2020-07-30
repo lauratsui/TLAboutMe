@@ -26,5 +26,17 @@
     padding: 1.5em
     margin-left: 20vw
     box-sizing: border-box 
-    min-height: 100vh  
+    min-height: 100vh
+
+  #mobile-nav 
+    display: none
+
+  @media screen and (max-width: 1096px)
+    .view-container
+      width: 100%
+      margin-left: 0 
+    #desktop-nav
+      display: none  
+    #mobile-nav
+      display: flex
 </style>
