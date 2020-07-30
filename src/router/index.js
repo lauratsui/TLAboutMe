@@ -9,6 +9,11 @@ Vue.use(VueRouter)
     path: '/',
     name: 'about',
     component: About
+  },
+  {
+    path: '/contact',
+    name: 'contact',
+    component: () => import(/* webpackChunkName: "contact" */ '../views/Contact.vue')
   }
 ]
 

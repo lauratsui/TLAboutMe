@@ -5,6 +5,10 @@
      <div class="view-container">
        <router-view/>      
      </div>
+     <div class="nav">
+       <router-link to="about">About</router-link>
+       <router-link to="contact">Contact</router-link>
+     </div>
   </div>
 </template>
 

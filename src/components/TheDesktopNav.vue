@@ -5,8 +5,8 @@
         </div>
         <div class="nav-menu">
             <ul class="nav-menu-list">
-                <li class="nav-list-item">About Me</li>
-                <li class="nav-list-item">Github</li>
+                <li class="nav-list-item"><a href = "/">About Me</a></li>
+                <li class="nav-list-item"><a href = "/contact">Contact</a></li>
             </ul>
         </div>
     </section>
