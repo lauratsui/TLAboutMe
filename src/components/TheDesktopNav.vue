@@ -24,7 +24,7 @@ export default {
         left: 0
         top: 0
         bottom: 0
-        background: #333
+        background: #453433
         display: flex
         flex-direction: column
         align-items: center
@@ -39,7 +39,7 @@ export default {
         list-style: none
         padding: 0
         .nav-list-item
-            background: #222
+            background: #856563
             padding: 10px 20px
             text-align: center
             margin: 10px auto
