@@ -46,4 +46,8 @@ export default {
             cursor: pointer 
             &:hover 
                 width: 100%
+            a:link
+                color: pink
+            a:visited
+                color: silver
 </style>

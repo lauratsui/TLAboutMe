@@ -9,7 +9,10 @@
     </div>
     <div class="card-content">
 
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, labore dicta. Delectus voluptates sequi voluptatum, minus porro aspernatur labore officia nemo deleniti deserunt architecto nesciunt, eveniet pariatur, sunt error tenetur maxime aliquam laudantium culpa id magni provident! Fugiat, quos. Vel molestias illo consequuntur nisi eligendi deserunt repellendus temporibus, provident laudantium.</p>
+      <p>Feel free to contact me!</p>
+      <div class="contact-links">
+        <a href = "https://www.linkedin.com/in/lauratsui/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50" height="50"></a> <a href="https://www.instagram.com/bo_lo_bao/"><img src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" width="50" height="50"></a> <a href="github.com/lauratsui"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"></a>
+      </div>
       
       <table width="100%">
         <tr>
@@ -69,7 +72,14 @@
   .card-content p
     line-height: 1.5
     margin: 30px auto
-
+    a:link
+      color: pink
+    a:visited
+      color: silver
+  .card-content-list
+    list-style: none
+  .contact-links
+    text-align: center
   table
     border-spacing: 0px
     margin: 50px auto
