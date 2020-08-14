@@ -1,7 +1,7 @@
 <template>
   <div class="about-card">
     <div class="card-title">
-      <img src="https://lh3.googleusercontent.com/fQwrdBZIxUDploR1wQFx3KmbXDRQhM0gz8ngcfcTChPSIF31VvtX6Q0LDQ904CS8LLYUw0nElZ1awiHSW0T8xf7foQiFqBm_n4U2bIRurOjlTwRa77EcunxPwX_okRKuvVH80gXC4Yrhxqg3tQtaw8SiCyjm6p6Y4yaZu3-q3N3hXTuJJiul3roH6eaM_P6S3N9qoD-vdMdkvKsn5vkpH8BOY1SHgZv2Ry__sSwkNQxOzIQWCkXZjayq8xEgIR_7jSrY4rldKYYYGWcOAXfzAuoauts3xFwQAtVwt7I3bxNlyTdg1-iawP8zA1caSHWEF-pXyGrtaeqhF9c2TaZIwKJ8jhvajCQ9DcNS3k8o0HrMwHWBgZkLEIuucjipeQmreZ2KQjcllco45j2j88V1IV-miSkeecRzVz5VaIhx9RjqTz7xzysTDojGZ31ryQXehm9h-BJkX4MWpnugFm6xqU219R7ikeFElbWe_xRhO3X5zGQb-2Uk3zslS1A8fZ7QBBSGgBvCZ6g_lbo2MZFWh01sABJ4eneIaCt8zoRJ_5Jq-5W4dybI75BoyX5QfVXhWG9z3d8GWMLmverI4fyqv27gnfmqbXfoA8q8YiGWKkG4XQAt8SVY7Dh1AlzIngfzw3NWOdvDYroL8yr1L--Fnfl9Ukn_HmHYl2HBu3WOUQct5uqZwrgsZWjdYbpiEg=w2104-h1578-no?authuser=0" alt="avatar" class="avatar" width="100" height="100">
+      <img src="https://scontent.fsin1-1.fna.fbcdn.net/v/t1.0-9/97989406_10157327716973634_5040229548755517440_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=LmnMWqIn10UAX-bU_lk&_nc_ht=scontent.fsin1-1.fna&oh=98ebc242030104032bd04209ce7a0b58&oe=5F5C697D" alt="avatar" class="avatar" width="100" height="100">
       <div class="title-text-content">
         <p> About Me</p>
         <h2>Laura Tsui</h2>
@@ -22,14 +22,14 @@
 
 <style lang="sass" scoped>
   .about-card
-    background: #6B514F
+    background: #5F7470
     padding: 3em
     border-radius:  10px 
     color: white
     .card-title
       display: flex 
       align-items: center
-      background: #916E6C
+      background: #889696
       border-radius: 10px
       .avatar
         border: 1px solid rgba(255, 255, 255, 0.4)
@@ -46,9 +46,9 @@
     line-height: 1.5
     margin: 30px auto
     a:link
-      color: pink
+      color: #D2D4C8
     a:visited
-      color: silver
+      color: #889696
 
   
 </style>

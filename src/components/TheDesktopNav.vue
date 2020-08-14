@@ -1,7 +1,7 @@
 <template>
     <section class="nav">
         <div class="nav-logo">
-            <img src="https://img.favpng.com/14/12/13/cat-icon-design-icon-png-favpng-0hmD7vw79EmtTwWMXUSAgXZWH.jpg" alt="logo" class="logo" height="100" width="100">
+            <img src="https://i.redd.it/kgtwwxcjod151.jpg" alt="logo" class="logo" height="100" width="100">
         </div>
         <div class="nav-menu">
             <ul class="nav-menu-list">
@@ -24,7 +24,7 @@ export default {
         left: 0
         top: 0
         bottom: 0
-        background: #453433
+        background: #B8BDB5
         display: flex
         flex-direction: column
         align-items: center
@@ -39,7 +39,7 @@ export default {
         list-style: none
         padding: 0
         .nav-list-item
-            background: #856563
+            background: #889696
             padding: 10px 20px
             text-align: center
             margin: 10px auto
@@ -47,7 +47,7 @@ export default {
             &:hover 
                 width: 100%
             a:link
-                color: pink
+                color: white
             a:visited
                 color: silver
 </style>

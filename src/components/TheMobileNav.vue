@@ -1,7 +1,7 @@
 <template>
     <section class="nav">
         <div class="nav-logo">
-            <img src="https://img.favpng.com/14/12/13/cat-icon-design-icon-png-favpng-0hmD7vw79EmtTwWMXUSAgXZWH.jpg" alt="logo" class="logo" height="75" width="75">
+            <img src="https://i.redd.it/kgtwwxcjod151.jpg" alt="logo" class="logo" height="75" width="75">
         </div>
         <div class="nav-menu">
             <ul class="nav-menu-list">
@@ -20,7 +20,7 @@ export default {
 
 <style lang="sass" scoped>
     .nav
-        background: #333
+        background: #B8BDB5
         display: flex
         flex-direction: column
         justify-content: space-around
@@ -41,7 +41,7 @@ export default {
         li
             width: 50%
             text-align: center
-            background: #555
+            background: #889696
             padding: 10 px 0
             cursor: pointer
             transition: background 300ms ease-in-out
@@ -49,4 +49,8 @@ export default {
                 background: #333
             &:first-of-type
                 border-bottom: 5px solid #222
+            a:link
+                color: white
+            a:visited
+                color: silver
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" class="app">
     <the-desktop-nav id="desktop-nav" />
     <the-mobile-nav id="mobile-nav" />
      <div class="view-container">
@@ -25,6 +25,8 @@
 </script>
 
 <style lang="sass" scoped>
+  .app
+    background-color: #E0E2DB
   .view-container
     width: 79vw
     padding: 1.5em
