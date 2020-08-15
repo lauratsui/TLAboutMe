@@ -13,33 +13,7 @@
       <div class="contact-links">
         <a href = "https://www.linkedin.com/in/lauratsui/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50" height="50"></a> <a href="https://www.instagram.com/bo_lo_bao/"><img src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" width="50" height="50"></a> <a href="github.com/lauratsui"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"></a>
       </div>
-      
-      <table width="100%">
-        <tr>
-          <th>Cuisine</th>
-          <th>Favourites</th>
-        </tr>
-        <tr>
-          <td>Japanese</td>
-          <td>Sashimi, Okonomiyaki, Mochi</td>
-        </tr>
-        <tr>
-          <td>Chinese</td>
-          <td>Har Gau, Xiao Long Bao, Mala</td>
-        </tr>
-        <tr>
-          <td>Italian</td>
-          <td>Aglio Olio, Magherita Pizza, Tiramisu</td>
-        </tr>
-        <tr>
-          <td>Mediterrenean</td>
-          <td>Falafel, Shakshuka, Baklava</td>
-        </tr>
-        <tr>
-          <td>Local</td>
-          <td>Kway Teow, Orh Lua, Bak Chor Mee</td>
-        </tr>
-      </table>
+    
 
     </div>
   </div>

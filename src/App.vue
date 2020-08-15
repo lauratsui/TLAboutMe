@@ -15,6 +15,7 @@
 <script>
   import TheDesktopNav from '@/components/TheDesktopNav'
   import TheMobileNav from '@/components/TheMobileNav' 
+ 
 
   export default {
     components: {
